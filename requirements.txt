@@ -1,7 +1,8 @@
 streamlit
-transformers
-torch
-scikit-learn
+requests
 pandas
 fpdf
-sentencepiece
+transformers
+torch
+openai
+scikit-learn
